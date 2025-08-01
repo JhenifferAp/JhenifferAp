@@ -15,7 +15,6 @@ Tenho conhecimento em:
 - **C e C#**
 - **HTML e CSS**
 - **Git e GitHub**
-- E um pouco de **Java** e **VSCode**
 
 ---
 
